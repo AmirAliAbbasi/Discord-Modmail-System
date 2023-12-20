@@ -1,8 +1,10 @@
 # Discord-Modmail-System
 <h1 align="center">
   <img src="https://cdn.discordapp.com/attachments/1039967003538096258/1187132680043774183/message.png" alt="message" />
-  <img src="https://cdn.discordapp.com/attachments/1039967003538096258/1187132680337379348/reply2.png" alt="reply" />
 </h1>
+<h2 align="center">
+  <img src="https://cdn.discordapp.com/attachments/1039967003538096258/1187132680337379348/reply2.png" alt="reply" />
+</h2>
 
 ## Hello World👋
 
